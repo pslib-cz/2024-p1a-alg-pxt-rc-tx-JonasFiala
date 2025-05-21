@@ -1,4 +1,5 @@
-radio.setGroup(15);
+radio.setGroup(39);
+radio.setTransmitPower(7);
 radio.setTransmitSerialNumber(true)
 
 basic.forever(function () {
